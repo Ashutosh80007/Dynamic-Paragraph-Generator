@@ -2,7 +2,6 @@ Dynamic Paragraph Generator with JavaScript:
 
 Project Description:
 This project is a simple JavaScript-based tool for dynamically generating, deleting, and managing paragraphs on a webpage. The user can:
-
 Create new paragraphs with each button click.
 Delete one paragraph at a time.
 Delete All paragraphs at once.
